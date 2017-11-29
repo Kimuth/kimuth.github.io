@@ -10,6 +10,9 @@ date: 2017-11-29 12:14:00 Z
 | Styrerep:    | John Arne Eckholm   |             |
 |              | Alfhild Skogsberg   |             |
 |              | Bente Solberg       |             |
-| Vararep      |                     |             |
-| Revisor      |                     |             |
-| Valgkomité   |                     |             |
+| Vararep      | Bjørn Gundersen     |             |
+|              | Åse Nordhagen       |             |
+| Revisor      | Willy Otterbeck     |             |
+|              | Tor Johannessen     |
+| Valgkomité   | Marit Johannessen   |
+|              | Oddvar Hamandsen    |
