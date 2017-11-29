@@ -10,7 +10,7 @@ collections:
     output: true
 name: Fjeldvig.net
 description: Fjeldvig Øl og Spadserklubb
-avatar: images/beer_avatar.png
+avatar: https://raw.githubusercontent.com/Kimuth/kimuth.github.io/master/images/beer_avatar.png
 footer-links:
   dribbble: 
   email: 
@@ -38,7 +38,7 @@ kramdown:
     css_class: highlight
 sass:
   style: :expanded
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
 exclude:
