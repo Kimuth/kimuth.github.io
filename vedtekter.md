@@ -1,6 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Vedtekter
 date: 2017-11-29 14:45:00 Z
+=======
+>>>>>>> 79c93dbf4a5136490b532bf819e817560239bd20
 ---
 
 # Vedtekter for Fjeldvig Øl- og Spadserklubb
